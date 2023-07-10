@@ -1,0 +1,15 @@
+h4{
+  color: rgb(40, 40, 178);
+  font-weight: 600;
+
+}
+button{
+  background-color: rgb(40, 40, 178);
+  color: white;
+  /* border-top-right-radius: 25%;
+  border-bottom-right-radius: 25%; */
+}
+button:hover{
+  background-color: aqua !important;
+    color: white !important;
+}

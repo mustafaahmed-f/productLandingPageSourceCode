@@ -1,0 +1,15 @@
+.last-section{
+  background-color: rgb(40, 40, 178);
+}
+i{
+  font-size: 1.8em;
+  cursor: pointer;
+}
+a{
+  text-decoration: none;
+  color: white;
+  margin: 0 10px;
+}
+h2{
+  font-weight: 700;
+}

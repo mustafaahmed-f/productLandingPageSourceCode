@@ -1,0 +1,20 @@
+h3{
+  font-weight: 700;
+  color: rgb(40, 40, 178);
+}
+.main-title{
+  background-image: url(../../assets/images/pexels-jane-doan-1092730.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+.layer{
+  background-color: rgba(0, 0, 0, 0.5);
+}
+h1{
+  font-size: 5em;
+
+}
+.description{
+  color: rgb(37, 37, 243);
+  font-weight: 450;
+}

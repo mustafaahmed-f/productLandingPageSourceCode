@@ -1,0 +1,23 @@
+:root{
+  --blue: rgb(40, 40, 178)
+}
+h4{
+  color: rgb(40, 40, 178);
+}
+
+.second-title{
+
+  font-weight: 700;
+  font-size: 1.5em;
+}
+.second-sec{
+  background-color: rgb(217, 226, 241);
+}
+
+.icon {
+ width: 70px;
+ height: 70px ;
+}
+i{
+  font-size: 4em;
+}
